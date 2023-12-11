@@ -66,6 +66,9 @@ tercera parte, ¿su densidad serı́a la misma? ¿por qué?</p>
 </section>
     <footer class="pie">
      Creative Commons versión 3.0 SciSoft 2023
+        <br>
+        <br>
+        <p>Luis Angel Arellano Mojica, C20090039</p>
     </footer>
    </section>
 </body>
