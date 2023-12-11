@@ -1,12 +1,12 @@
 .problema{
     grid-area: a1;
-    background-color: blue;
+    background-color: #90b083;
     color: gold;
     border-radius: 5px;
 }
 .datos{
     grid-area: a2;
-    background-color: red;
+    background-color: #fa8072;
     border-radius: 5px;
 }
 .formulas{
@@ -16,13 +16,13 @@
 }
 .calculos{
     grid-area: a4;
-    background-color: indigo;
+    background-color: lightblue;
     color: white;
     border-radius: 5px;
 }
 .resultado{
     grid-area: a5;
-    background-color: darkgreen;
+    background-color: lightgreen;
     color: white;
     border-radius: 5px;
 }
